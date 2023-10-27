@@ -2,15 +2,10 @@
 
 Simple custom splash screen
 
-## Getting Started
+## This custom splash screen doesn't override or replace the use of a native splash screen,
+## As there would still be a blank splash page before the app starts running. 
 
-This project is a starting point for a Flutter application.
+## I think it wouldn't hurt to have a native splash screen and after that a custom splash that maybe shows a different detail about the app.
 
-A few resources to get you started if this is your first Flutter project:
+## Same format can also be used when you want to display a page for a short period of time, just align your paths correctly and adjust the timer and other details.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
